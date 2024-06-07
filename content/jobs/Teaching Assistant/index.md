@@ -1,10 +1,10 @@
 ---
 date: '4'
 title: 'Teaching Assistant'
-company: 'Department of Chemistry'
+company: 'Chemistry UF'
 location: 'Gainesville, FL'
 range: 'August 2024 - Present'
-url: 'https://academicresources.clas.ufl.edu/tutoring/'
+url: 'https://www.chem.ufl.edu/'
 ---
 
 - Host weekly in-person and virtual tutoring sessions for Organic Chemistry students, guiding them through problem sets and answering any questions

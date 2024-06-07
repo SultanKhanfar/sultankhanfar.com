@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Director of Education'
+title: 'Assistant Director of Education'
 company: 'GRMR'
 location: 'Gainesville, FL'
 range: 'August 2023 - Present'

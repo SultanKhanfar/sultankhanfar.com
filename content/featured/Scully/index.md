@@ -3,8 +3,6 @@ date: '3'
 institution: Dawson-Scully Lab, Nova Southeastern University
 title: 'Resveratrol in Antiepileptics'
 cover: './elegans.png'
-github: ''
-external: ''
 cta: 'Amongus'
 tech:
   - July 2022 - May 2023

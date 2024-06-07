@@ -322,7 +322,6 @@ const Featured = () => {
               }
               tech
               github
-              external
               cta
             }
             html
@@ -349,14 +348,14 @@ const Featured = () => {
   return (
     <section id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
-        Research Portfolio
+        Featured Projects
       </h2>
 
       <StyledProjectsGrid>
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, institution, title, tech, github, cover, cta } = frontmatter;
+            const { institution, title, cover, tech, github, cta } = frontmatter;
             const image = getImage(cover);
 
             return (
@@ -391,17 +390,12 @@ const Featured = () => {
                           <Icon name="GitHub" />
                         </a>
                       )}
-                      {external && !cta && (
-                        <a href={external} aria-label="External Link" className="external">
-                          <Icon name="External" />
-                        </a>
-                      )}
                     </div>
                   </div>
                 </div>
 
                 <div className="project-image">
-                  <a href={external ? external : github ? github : '#'}>
+                  <a href="#" onClick={e => e.preventDefault()} aria-label={title}>
                     <GatsbyImage image={image} alt={title} className="img" />
                   </a>
                 </div>

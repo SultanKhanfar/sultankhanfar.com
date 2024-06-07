@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Chemistry Event Chair'
-company: 'Science Olympiad UF'
+company: 'SciOly UF'
 location: 'Gainesville, FL'
 range: 'January 2024 - Present'
 url: 'https://uf.floridascienceolympiad.org/'
