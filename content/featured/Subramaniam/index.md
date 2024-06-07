@@ -3,6 +3,7 @@ date: '1'
 institution: Subramaniam Lab, Scripps Research Institute
 title: "Neuron Signaling in Huntington's"
 cover: './blank.png'
+external: ''
 cta: 'Amongus'
 tech:
   - June 2024 - August 2024
