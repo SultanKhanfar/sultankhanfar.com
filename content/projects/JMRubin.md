@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Awarded highest possible scholarship amount to cover tuition, fees, and other college-related expenses
+Awarded highest possible scholarship amount to cover tuition, fees, and other college-related expenses; recipients are selected on a holistic basis

@@ -3,8 +3,7 @@ date: '2'
 institution: Bryant Lab, University of Florida
 title: 'Microglia in Hypertension'
 cover: './nfkb.png'
-external: ''
-cta: 'Amongus'
+cta: 'https://journals.physiology.org/doi/abs/10.1152/physiol.2024.39.S1.2611'
 tech:
   - September 2023 - May 2024
 ---

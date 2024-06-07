@@ -7,5 +7,5 @@ range: 'August 2024 - Present'
 url: 'https://www.chem.ufl.edu/'
 ---
 
-- Host weekly in-person and virtual tutoring sessions for Organic Chemistry students, guiding them through problem sets and answering any questions
-- Answered over 100 questions on Piazza as a verified answerer while simultaneously taking Organic Chemistry
+- Lead weekly Organic Chemsitry tutoring sessions, guiding students through challenging problem sets and directly answering questions
+- Answered over 100 student-posted questions regarding Organic Chemistry on Piazza (as a verified answerer) while simultaneously taking the course
