@@ -148,7 +148,7 @@ const About = () => {
 
             <p>
               I’ve had the privilege of learning from a diverse group of neuroscientists, each
-              imparting valuable insights into synaptic plasticity and neuroinflammation.
+              imparting invaluable insights into synaptic plasticity and neuroinflammation.
               Fast-forward to today, I am deeply passionate about exploring neuron-glia
               crosstalk, with a{' '}
               <span style={{ color: '#00cfff' }}>

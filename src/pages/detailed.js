@@ -1,0 +1,10 @@
+import React, { useRef, useEffect } from 'react';
+import { graphql } from 'gatsby';
+import PropTypes from 'prop-types';
+import { Helmet } from 'react-helmet';
+import styled from 'styled-components';
+import { srConfig } from '@config';
+import sr from '@utils/sr';
+import { Layout } from '@components';
+import { Icon } from '@components/icons';
+import { usePrefersReducedMotion } from '@hooks';

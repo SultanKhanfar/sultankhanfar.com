@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an undergraduate researcher exploring neuron-glia crosstalk in health and disease.
+        I’m an undergraduate researcher passionate about neuron-glia crosstalk in health and disease.
         Currently, I'm pursuing a Bachelors in Chemistry at the{' '}
         <a href="https://www.ufl.edu/" target="_blank" rel="noreferrer">
           University of Florida
