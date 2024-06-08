@@ -142,12 +142,6 @@ const StyledLinks = styled.div`
       }
     }
   }
-
-  .resume-button {
-    ${({ theme }) => theme.mixins.smallButton};
-    margin-left: 15px;
-    font-size: var(--fz-xs);
-  }
 `;
 
 const Nav = ({ isHome }) => {

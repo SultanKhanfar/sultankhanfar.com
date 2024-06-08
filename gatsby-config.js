@@ -5,7 +5,7 @@ module.exports = {
     title: 'Sultan Khanfar',
     description:
       'Sultan Khanfar is an undergraduate researcher focused on exploring neuron-glia crosstalk in health and disease.',
-    siteUrl: 'https://sultan.khanfar', // No trailing slash allowed!
+    siteUrl: 'https://sultankhanfar.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sultan_khanfar',
   },
