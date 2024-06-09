@@ -7,5 +7,5 @@ range: 'January 2024 - Present'
 url: 'https://uf.floridascienceolympiad.org/'
 ---
 
-- Wrote the 'Chem Lab' paper and practical examinations for the 2024 state tournament, focusing on periodicity and equilibrium
+- Wrote the 'Chem Lab' paper and practical examinations for the 2024 Florida state tournament, focusing on periodicity and equilibrium
 - More details coming soon
