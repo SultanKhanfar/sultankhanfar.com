@@ -8,5 +8,4 @@ tech:
   - July 2022 - May 2023
 ---
 
-Developed electroshock assay to investigate the effect of Resveramorph-3 (RVM-3) on seizure-like duration in C. elegans. Demonstrated that RVM-3 exhibited potent anti-seizure activity at picomolar concentrations using one-way ANOVA with Tukey's test. Earned maximum score on
-<a href="https://apcentral.collegeboard.org/courses/ap-research" target="_blank">AP Research Portfolio</a>.
+Developed electroshock assay to investigate the effect of Resveramorph-3 (RVM-3) on seizure-like duration in C. elegans. Demonstrated that RVM-3 exhibited potent anti-seizure activity at picomolar concentrations using one-way ANOVA with Tukey's test. Earned maximum score on AP Research Portfolio, consisting of a <a href="/apresearch.pdf" target="_blank">5,000-word paper</a> and 20-minute presentation.

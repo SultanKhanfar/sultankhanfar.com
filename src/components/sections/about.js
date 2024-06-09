@@ -143,7 +143,7 @@ const About = () => {
               Hey there! My name is Sultan, and I'm passionate about exploring the connection between
               the brain and the body. After taking college physiology courses in high school, I
               became increasingly interested in the autonomic nervous system and how it regulates
-              countless crucial biological processes in our body.
+              countless crucial biological processes in the human body.
             </p>
 
             <p>
