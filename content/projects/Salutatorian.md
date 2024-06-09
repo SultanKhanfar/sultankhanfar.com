@@ -1,5 +1,5 @@
 ---
-date: '2023-02-15'
+date: '4'
 title: 'Suncoast Class of 2023 Salutatorian'
 github: ''
 external: 'https://www.sun-sentinel.com/2023/06/12/class-of-2023-palm-beach-county-high-school-vals-and-sals/'

@@ -1,5 +1,5 @@
 ---
-date: '2023-06-15'
+date: '2'
 title: 'American Muslim Alliance of Florida Scholar'
 github: ''
 external: 'https://www.americanmuslimalliance.org/category/graduation-cermony/scholarship/'

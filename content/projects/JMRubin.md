@@ -1,5 +1,5 @@
 ---
-date: '2024-5-27'
+date: '5'
 title: 'J.M. Rubin Scholar'
 github: ''
 external: 'https://www.jmrf.org/'

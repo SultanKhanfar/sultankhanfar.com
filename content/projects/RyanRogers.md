@@ -1,5 +1,5 @@
 ---
-date: '2023-07-15'
+date: '3'
 title: 'Ryan Rogers Scholar'
 external: 'https://www.pbgyaa.com/soccer/information/college-scholarship/'
 tech:
