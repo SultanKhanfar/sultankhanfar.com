@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Sultan Khanfar',
     description:
-      'Sultan Khanfar is an undergraduate researcher focused on exploring neuron-glia crosstalk in health and disease.',
+      'Sultan Khanfar is an undergraduate researcher passionate about neuron-glia crosstalk in health and disease.',
     siteUrl: 'https://sultankhanfar.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sultan_khanfar',
