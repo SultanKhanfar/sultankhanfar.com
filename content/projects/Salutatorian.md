@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Ranked 2/350 from a nationally-ranked top 100 high school. Scored a '5' on 10+ AP Exams, including Chemistry, Biology, and both Physics C exams. Completed an Associate's Degree with 100+ credits.
+Ranked 2/370 from a nationally-ranked top 100 high school. Scored a '5' on 10+ AP Exams, including Chemistry, Biology, and both Physics C exams. Completed an Associate's Degree with 100+ credits.
