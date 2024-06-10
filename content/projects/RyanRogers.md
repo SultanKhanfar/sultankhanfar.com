@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Ryan Rogers Scholar'
 external: 'https://www.pbgyaa.com/soccer/information/college-scholarship/'
 tech:
@@ -8,4 +8,4 @@ company: ''
 showInProjects: true
 ---
 
-Awarded the second-highest scholarship (of ≈ 30) for exceptional academic and athletic achievement
+Awarded the second-highest scholarship (of ≈ 30) for exceptional academic and athletic achievement.

@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: 'Suncoast Class of 2023 Salutatorian'
+title: "Suncoast '23 Salutatorian"
 github: ''
 external: 'https://www.sun-sentinel.com/2023/06/12/class-of-2023-palm-beach-county-high-school-vals-and-sals/'
 tech:
@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Ranked #2 out of 350 students from one of the top 100 high schools in the nation; Scored a '5' on 10+ AP Exams, including Chemistry, Biology, and Physics C
+Ranked 2/350 from a nationally-ranked top 100 high school. Scored a '5' on 10+ AP Exams, including Chemistry, Biology, and both Physics C exams. Completed an Associate's Degree with 100+ credits.
