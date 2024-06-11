@@ -7,6 +7,6 @@ range: 'August 2023 - Present'
 url: 'https://www.grmruf.org/'
 ---
 
-- Currenty serving as an Assistant Director of Education, developing and delivering lesson plans in the natural sciences (i.e. chemistry and physics) for in-person tutoring sessions hosted in Jacksonville, FL
-- Developed interactive presentations on diverse career paths to inspire young refugee students and foster early career exploration
-- Lead refugee student success through weekend tutoring sessions
+- Develop and deliver interactive chemistry and physics presentations with supplementary activities for our year-round educational sessions hosted in Jacksonville, FL
+- Lead virtual weekend tutoring sessions in chemistry, biology, and mathematics for refugee students via Google Meet
+- Created interactive presentations on diverse career paths to inspire young refugee students and foster early career exploration

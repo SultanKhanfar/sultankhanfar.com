@@ -128,7 +128,7 @@ const About = () => {
   const skills = [
     'Confocal Microscopy',
     'Multiphoton Microscopy',
-    'Multiplexed RNAscope',
+    'Multiplex RNAscope',
     'scRNA-Seq',
   ];
 
@@ -140,17 +140,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there! My name is Sultan, and I'm passionate about exploring the connection between
-              the brain and the body. After taking college physiology courses in high school, I
-              became increasingly interested in the autonomic nervous system and how it regulates
-              countless essential biological processes in the human body.
+              Hey there! My name is Sultan, and I'm passionate about exploring the connection
+              between the brain and the body. After taking college physiology courses in high
+              school, I became increasingly interested in the autonomic nervous system and how it
+              regulates countless essential biological processes in the human body.
             </p>
 
             <p>
               I’ve had the privilege of learning from a diverse group of neuroscientists, each
               imparting invaluable insights into synaptic plasticity and neuroinflammation.
-              Fast-forward to today, I am deeply passionate about exploring neuron-glia
-              crosstalk, with a{' '}
+              Fast-forward to today, I am deeply passionate about exploring neuron-glia crosstalk,
+              with a{' '}
               <span style={{ color: '#00cfff' }}>
                 special interest in better understanding how microglia modulate synaptic plasticity
                 in health and disease
