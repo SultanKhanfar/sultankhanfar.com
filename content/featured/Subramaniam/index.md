@@ -1,6 +1,6 @@
 ---
 date: '2'
-institution: Subramaniam Lab, Scripps Research Institute
+institution: Subramaniam Lab, Scripps Research
 title: "Neuron Signaling in Huntington's"
 cover: './blank.png'
 cta: ''
