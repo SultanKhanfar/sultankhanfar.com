@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Awarded to 60 students from Palm Beach County's graduating class for outstanding academic achievement.
+Awarded to 60 students from Palm Beach County's graduating class for distinguished academic achievement.
