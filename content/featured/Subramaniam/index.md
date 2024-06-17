@@ -1,7 +1,7 @@
 ---
 date: '2'
 institution: Subramaniam Lab, Scripps Research
-title: "Neuron Signaling in Huntington's"
+title: 'Neuron-Microglia Nanotubes'
 cover: './blank.png'
 cta: ''
 tech:
