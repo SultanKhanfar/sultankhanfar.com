@@ -1,7 +1,7 @@
 ---
 date: '4'
 institution: Dawson-Scully Lab, Nova Southeastern University
-title: 'Resveratrol in Antiepileptics'
+title: Resveratrol–Inspired Antiepileptics
 cover: './elegans.png'
 cta: ''
 tech:
