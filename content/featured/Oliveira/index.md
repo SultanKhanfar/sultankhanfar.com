@@ -1,7 +1,7 @@
 ---
 date: '1'
 institution: Oliveira Lab, University of Florida
-title: Disease-Associated Microglia in Pulmonary Hypertension
+title: "Disease–Associated Microglial Mechanisms in Hypertension"
 cover: './blank.png'
 cta: ''
 tech:

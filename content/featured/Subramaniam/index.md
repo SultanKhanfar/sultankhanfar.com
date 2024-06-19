@@ -1,7 +1,7 @@
 ---
 date: '2'
 institution: Subramaniam Lab, Scripps Research
-title: Neuron–Microglia Nanotubes in Huntington's Disease
+title: Nanotube–Mediated Neuronal Transmission in Huntington's
 cover: './blank.png'
 cta: ''
 tech:

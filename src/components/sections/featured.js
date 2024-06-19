@@ -125,7 +125,7 @@ const StyledProject = styled.li`
 
   .project-title {
     color: var(--lightest-slate);
-    font-size: clamp(24px, 5vw, 28px);
+    font-size: clamp(24.45px, 5vw, 28.45px);
 
     @media (min-width: 768px) {
       margin: 0 0 20px;
