@@ -127,7 +127,7 @@ const About = () => {
 
   const skills = [
     'Confocal Microscopy',
-    'Multiphoton Microscopy',
+    'Patch Clamp',
     'Multiplex RNAscope',
     'scRNA-Seq',
   ];
