@@ -8,4 +8,4 @@ tech:
   - May 2024 - Present
 ---
 
-Description coming soon.
+Apply multiplex RNAscope to localize microglia and therapeutic targets such as TREM2 and C1q in the PVN of the mouse brain. Conduct immunofluorescence staining to investigate pulmonary artery apoptosis and lung vascular remodeling. Utilize confocal microscopy and Sholl analysis to quantify changes in microglial morphology in the paraventricular nucleus of the hypothalamus.
