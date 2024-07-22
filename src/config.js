@@ -22,10 +22,6 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Extracurriculars',
-      url: '/#jobs',
-    },
-    {
       name: 'Research',
       url: '/#projects',
     },
