@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Suncoast Science Award (2x)'
 external: 'https://www.palmbeachschools.org/SuncoastHighSchool'
 tech:
@@ -8,4 +8,4 @@ company: ''
 showInProjects: true
 ---
 
-Awarded annually by the science department to a student demonstrates exceptional dedication and performance in the natural sciences.
+Awarded annually by the science department to a student that demonstrates exceptional dedication and performance in the natural sciences.

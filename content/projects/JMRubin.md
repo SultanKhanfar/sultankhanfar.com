@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '3'
 title: 'J.M. Rubin Scholar'
 github: ''
 external: 'https://www.jmrf.org/'
@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Awarded highest possible scholarship amount to cover tuition, fees, and other college-related expenses. Recipients are selected holistically, with an emphasis on their potential in their career interest.
+Awarded to students attending a recognized educational institution; applicants are evaluated holistically.

@@ -7,6 +7,4 @@ tech:
 showInProjects: true
 ---
 
-Awarded to the top 2% of admitted undergraduates at the University of Florida.
-Scholars are selected on an invitation-only basis and demonstrate strong 
-potential in impactful research.
+Awarded to the top 2% of admitted undergraduates at the University of Florida. Scholars are selected on an invitation-only basis and demonstrate strong potential in impactful research.

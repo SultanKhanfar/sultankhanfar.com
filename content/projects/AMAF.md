@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Awarded to 30 graduating high school students across the state of Florida. Selections are made holistically.
+Awarded to 30 students in Florida who are pursuing college and demonstrate notable holistic achievement.
