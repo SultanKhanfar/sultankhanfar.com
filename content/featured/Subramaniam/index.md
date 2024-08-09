@@ -1,7 +1,7 @@
 ---
 date: '2'
 institution: Subramaniam Lab, Scripps Research
-title: Nanotube–Mediated Microglial Transmission in Huntington's
+title: Nanotube–Mediated Microglial and Neuronal Signaling in Huntington's
 cover: './blank.png'
 cta: ''
 tech:

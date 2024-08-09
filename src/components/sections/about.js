@@ -148,7 +148,7 @@ const About = () => {
 
             <p>
               For the past few years, I’ve had the privilege of learning about the intricacies of 
-              synaptic plasticity and neuroinflammation from a diverse group of neuroscientists. 
+              neuroinflammation, neurodegeneration, and synaptic plasticity from a diverse group of neuroscientists. 
               Fast-forward to today, I am deeply passionate about exploring neuron-glia crosstalk, with a{' '}
               <span style={{ color: '#00cfff' }}>
                 special interest in better understanding how microglia modulate synaptic plasticity
