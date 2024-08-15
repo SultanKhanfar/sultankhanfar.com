@@ -2,7 +2,7 @@
 date: '2'
 institution: Subramaniam Lab, Scripps Research
 title: Nanotube–Mediated Microglial and Neuronal Signaling in Huntington's
-cover: './blank.png'
+cover: './nanotubes.png'
 cta: ''
 tech:
   - June 2024 - August 2024
