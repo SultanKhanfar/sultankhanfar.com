@@ -1,7 +1,7 @@
 ---
 date: '6'
 title: 'University Research Scholar'
-external: 'https://cur.aa.ufl.edu/programs/university-research-scholars-program/'
+external: 'https://cur.aa.ufl.edu/programs-university-research-scholars-program/'
 tech:
   - February 2023
 showInProjects: true

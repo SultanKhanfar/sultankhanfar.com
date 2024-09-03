@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Awarded to students attending a recognized educational institution; applicants are evaluated holistically.
+Merit scholarship awarded based on academic/extracurricular achievement and promise in career of interest.
