@@ -125,12 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [
-    'Confocal Microscopy',
-    'Patch Clamp',
-    'Multiplex RNAscope',
-    'scRNA-Seq',
-  ];
+  const skills = ['Confocal Microscopy', 'Patch Clamp', 'Multiplex RNAscope', 'scRNA-Seq'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,15 +136,16 @@ const About = () => {
           <div>
             <p>
               Hey there! My name is Sultan, and I'm passionate about exploring the connection
-              between the brain and the body. After taking college physiology courses in high
-              school, I became increasingly interested in the autonomic nervous system and how it
-              regulates the countless essential biological processes in the human body.
+              between the brain and body. After taking college physiology courses in high school, I
+              became interested in how the autonomic nervous system regulates many essential
+              biological processes including heart rate, blood pressure, and respiration.
             </p>
 
             <p>
-              For the past few years, I’ve had the privilege of learning about the intricacies of 
-              neuroinflammation, neurodegeneration, and synaptic plasticity from a diverse group of neuroscientists. 
-              Fast-forward to today, I am deeply passionate about exploring neuron-glia crosstalk, with a{' '}
+              For the past few years, I’ve had the privilege of learning about the intricacies of
+              neuroinflammation, neurodegeneration, and synaptic plasticity from a diverse group of
+              neuroscientists. Fast-forward to today, I am deeply passionate about exploring
+              neuron-glia crosstalk, with a{' '}
               <span style={{ color: '#00cfff' }}>
                 special interest in better understanding how microglia modulate synaptic plasticity
                 in health and disease
