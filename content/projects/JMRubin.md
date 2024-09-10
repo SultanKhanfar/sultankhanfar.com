@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Merit scholarship awarded based on academic/extracurricular achievement and promise in career of interest.
+Merit-based scholarship awarded for academic/extracurricular achievement and promise in career of interest.
