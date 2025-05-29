@@ -2,10 +2,10 @@
 date: '1'
 institution: Oliveira Lab, University of Florida
 title: "Disease–Associated Microglial Mechanisms in Hypertension"
-cover: './blank.png'
+cover: './microglia.png'
 cta: ''
 tech:
   - April 2024 - Present
 ---
 
-Apply multiplex RNAscope and immunohistochemistry staining to localize microglia and therapeutic targets in the mouse brain. Conduct immunofluorescence staining to investigate pulmonary artery apoptosis and lung vascular remodeling. Utilize confocal microscopy and Imaris to quantify disease-induced changes in microglia morphology and investigate neuron-glia interactions.
+Combine IHC and RNAscope to study microglial modulation of synaptic plasticity in autonomic brain regions of mice. Perform immunofluorescence stainings to investigate pulmonary artery apoptosis and lung vascular remodeling. Utilize high-resolution confocal microscopy and Imaris to quantify notable changes in microglia morphology and investigate neuron-glia interactions.
