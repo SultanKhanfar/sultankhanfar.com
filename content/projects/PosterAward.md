@@ -1,8 +1,7 @@
 ---
 date: '4'
-title: 'Excellent Poster Award'
+title: 'Excellent Poster Award - UF CoM Celebration of Research'
 github: ''
-external: ''
 tech:
   - January 2025
 company: ''

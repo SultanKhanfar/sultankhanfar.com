@@ -2,7 +2,6 @@
 date: '2'
 title: "Beyond120 Experiential Learning Scholar"
 github: ''
-external: ''
 tech:
   - April 2025
 company: ''

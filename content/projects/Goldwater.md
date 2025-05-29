@@ -1,8 +1,8 @@
 ---
 date: '6'
-title: 'Barry Goldwater Scholar'
+title: 'Barry M. Goldwater Scholar'
 github: ''
-external: ''
+external: 'https://goldwaterscholarship.gov/'
 tech:
   - March 2025
 company: ''

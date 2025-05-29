@@ -2,7 +2,6 @@
 date: '3'
 title: "CLAS Dean's Office Scholar"
 github: ''
-external: ''
 tech:
   - May 2025
 company: ''

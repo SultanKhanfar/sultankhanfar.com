@@ -8,4 +8,4 @@ tech:
   - July 2022 - May 2023
 ---
 
-Developed electroshock assay to investigate the effect of Resveramorph-3 (RVM-3) on seizure-like duration in C. elegans. Demonstrated that RVM-3 exhibited potent anti-seizure activity at picomolar concentrations via one-way ANOVA with Tukey's test. Became one of three students at Suncoast High School to earn the maximum score on the 2023 AP Research Exam, made up of a <a href="/apresearch.pdf" target="_blank">5,000-word paper</a> and a 20-minute oral presentation.
+Developed an in vitro electroshock assay to study the effects of Resveramorph-3 (RVM-3) on seizure-like activity. Demonstrated that RVM-3 exhibits effective anti-seizure activity at picomolar concentrations. Became 1 of just 3 students from Suncoast High School to receive the maximum score on the 2023 AP Research Exam, which included a <a href="/apresearch.pdf" target="_blank">5,000-word paper</a> and a 20-minute talk.

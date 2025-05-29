@@ -2,7 +2,7 @@
 date: '5'
 title: 'Stanford Amgen Scholar'
 github: ''
-external: ''
+external: 'https://amgenscholars.com/'
 tech:
   - March 2025
 company: ''

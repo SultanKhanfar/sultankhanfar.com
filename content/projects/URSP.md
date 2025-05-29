@@ -2,7 +2,7 @@
 date: '1'
 title: 'University Research Scholar'
 github: ''
-external: ''
+external: 'https://cur.aa.ufl.edu/programs-university-research-scholars-program/'
 tech:
   - February 2023
 showInProjects: true
