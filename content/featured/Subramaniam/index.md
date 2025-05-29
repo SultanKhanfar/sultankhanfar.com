@@ -8,4 +8,4 @@ tech:
   - June 2024 - August 2024
 ---
 
-Transfected and live-imaged microglia co-cultures to examine Rhes-mediated mutant Huntingtin protein transport. Infected primary neurons with adeno-associated viruses and applied confocal imaging to capture protein transport along nanotubes. Performed co-IP and western blotting to quantify Rhes and Tau protein binding inside nanotubes connecting striatal neurons.
+Identified through transfections and live imaging that microglia transfer Tau and mutant Huntingtin using tunneling nanotubes. Transduced primary neurons with adeno-associated viruses and used confocal microscopy to visualize protein transport through nanotubes. Performed co-IP and western blot to show that Rhes binds to mutant Huntingtin to facilitate its spread between cells.

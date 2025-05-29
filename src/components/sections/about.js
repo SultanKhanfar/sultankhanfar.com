@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Confocal Microscopy', 'Patch Clamp', 'Multiplex RNAscope', 'scRNA-Seq'];
+  const skills = ['Confocal Microscopy', 'Immunohistochemistry', 'Multiplex RNAscope', 'scRNA-Sequencing'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

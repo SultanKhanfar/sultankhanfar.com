@@ -8,4 +8,4 @@ tech:
   - June 2025 - August 2025
 ---
 
-Starting Summer 2025. Will study how cells decode extracellular and viral signals to translate them into context-specific responses using systems biology approaches.
+Starting Summer 2025. Will study how cells decode extracellular and viral signals to generate context-specific responses using systems biology approaches such as proteomics and genomics.
