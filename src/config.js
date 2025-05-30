@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sultan-khanfar',
+      url: 'https://www.linkedin.com/in/sultan-khanfar-6420b0309',
     },
   ],
 
