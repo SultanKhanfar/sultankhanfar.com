@@ -1,11 +1,11 @@
 ---
 date: '2'
 institution: Huttenhain Lab, Stanford University
-title: "Cellular Signaling in Neurovirology"
+title: 'Characterization of Host Protein Interactions with West Nile Virus'
 cover: './neurons.png'
 cta: ''
 tech:
   - June 2025 - August 2025
 ---
 
-Starting Summer 2025. Will study how cells decode extracellular and viral signals to generate context-specific responses using systems biology approaches such as proteomics and genomics.
+Differentiate human iPSCs into cortical neurons and use mass spectrometry to analyze proteomic changes during maturation. Express West Nile Virus proteins in iPSC-derived neurons and perform AP-MS to identify host-virus interactions in neurons. Clone tagged viral proteins and transfect human neuroblastoma cells to characterize host protein interactions using AP-MS.
