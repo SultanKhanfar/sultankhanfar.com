@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: "CLAS Dean's Office Scholar"
 github: ''
 tech:
